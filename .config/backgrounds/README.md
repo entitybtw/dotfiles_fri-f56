@@ -15,6 +15,6 @@ If you are using my dots, place this pack at `~/.config/backgrounds/'
 [Alphacorders](https://alphacoders.com) <br>
 [Wallhaven](https://wallhaven.cc/) <br>
 [Wallpaper-clan](https://wallpapers-clan.com/) <br>
-[macOS-Wallpapers](https://github.com/foxt/macOS-Wallpapers)
-[Thunderstorm_over_sea](https://www.reddit.com/r/wallpaper/comments/12igxcf/thunderstorm_over_sea_3_images_1920_x_1080/)
+[macOS-Wallpapers](https://github.com/foxt/macOS-Wallpapers) <br>
+[Thunderstorm_over_sea](https://www.reddit.com/r/wallpaper/comments/12igxcf/thunderstorm_over_sea_3_images_1920_x_1080/) <br>
 [River_To_Castle_Blue_Theme](https://www.pexels.com/photo/blue-sea-under-blue-sky-4245826/)
