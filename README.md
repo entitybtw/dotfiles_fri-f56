@@ -8,8 +8,9 @@ if you have folders with the same names as in this repository inside your `~/.co
 please make sure to back up these existing configuration folders manually before proceeding to avoid data loss.
 
 1. Clone the repository:
-
+```
 git clone https://github.com/entitybtw/dotfiles_fri-f56.git
+```
 
 2. copy the contents of the `.config` folder to your local `.config` directory:
 ```
