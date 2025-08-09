@@ -7,6 +7,10 @@ my hyprland dotfiles for my HONOR FRI-F56 (MagicBook X14) laptop on Bedrock Linu
 if you have folders with the same names as in this repository inside your `~/.config/` directory (e.g., `rofi`, `waybar`, `kitty`), they **will be overwritten** during the installation process.  
 please make sure to back up these existing configuration folders manually before proceeding to avoid data loss.
 
+1. Clone the repository:
+
+git clone https://github.com/entitybtw/dotfiles_fri-f56.git
+
 2. copy the contents of the `.config` folder to your local `.config` directory:
 ```
 cp -r dotfiles_fri-f56/.config/* ~/.config/
