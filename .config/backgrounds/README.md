@@ -1,4 +1,4 @@
-#### a wallpaper pack used in my dotfiles.
+## a wallpaper pack used in my dotfiles.
 If you are using my dots, place this pack at `~/.config/backgrounds/'
 
 
