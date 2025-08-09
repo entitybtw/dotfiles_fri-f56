@@ -6,11 +6,11 @@ rebootwindows() {
 }
 
 closewindows() {
-    sudo -u entitybtw kitty -e bash /home/entitybtw/scripts/closefreerdp.sh && sleep 3
+    sudo -u entitybtw kitty -e bash $HOME/scripts/closefreerdp.sh && sleep 3
 }
 
 windows() {
-    sudo -u entitybtw kitty -e bash /home/entitybtw/scripts/closefreerdp.sh && xfreerdp /u:Docker /p:303404505 /v:127.0.0.1 /cert:ignore +gfx-h264 +gfx-thin-client /dynamic-resolution
+    sudo -u entitybtw kitty -e bash $HOME/scripts/closefreerdp.sh && xfreerdp /u:Docker /p:303404505 /v:127.0.0.1 /cert:ignore +gfx-h264 +gfx-thin-client /dynamic-resolution
 }
 
 # Menu

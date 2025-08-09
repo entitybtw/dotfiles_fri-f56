@@ -6,23 +6,23 @@ launch_apps() {
 }
 
 launch_wallpapers() {
-    bash /home/entitybtw/.config/rofi/scripts/wallpaper_launcher.sh
+    bash $HOME/.config/rofi/scripts/wallpaper_launcher.sh
 }
 
 launch_grub_settings() {
-    bash /home/entitybtw/.config/rofi/scripts/grub_settings.sh
+    bash $HOME/.config/rofi/scripts/grub_settings.sh
 }
 
 launch_windows() {
-    bash /home/entitybtw/.config/rofi/scripts/windows_vm.sh
+    bash $HOME/.config/rofi/scripts/windows_vm.sh
 }
 
 launch_screenshots() {
-    bash /home/entitybtw/.config/rofi/scripts/rofi-screenshot.sh
+    bash $HOME/.config/rofi/scripts/rofi-screenshot.sh
 }
 
 launch_hz_control() {
-    bash /home/entitybtw/.config/rofi/scripts/hz_control.sh
+    bash $HOME/.config/rofi/scripts/hz_control.sh
 }
 
 # Main menu

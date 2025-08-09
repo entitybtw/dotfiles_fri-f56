@@ -4,7 +4,7 @@
 export DBUS_SESSION_BUS_ADDRESS=""
 
 # CONFIG
-SAVE_DIR="/home/entitybtw/screenshots"
+SAVE_DIR="$HOME/screenshots"
 TEMP_DIR="/tmp"
 # END CONFIG
 
