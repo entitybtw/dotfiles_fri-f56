@@ -18,4 +18,3 @@ rm -rf dotfiles_fri-f56
 ```
 
 4. restart your session or relevant applications to apply the new configurations.
-```
